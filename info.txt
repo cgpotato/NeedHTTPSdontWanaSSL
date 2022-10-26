@@ -1,2 +1,0 @@
-;Include the full file name (do not leave whitespace lines in this file)
-name_build_0.19.0.0.dwn
